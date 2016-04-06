@@ -1,0 +1,74 @@
+{
+    "docs": [
+        {
+            "location": "/readme/", 
+            "text": "Instalar mkDocs\n\n\nPara instalar mkDocs necesitamos tener instalado\n\n\npythton \n=2.7\npip\n\n\n\nPaso 1\n\n\nInstalaci\u00f3n funcional en \nUbuntu 15.10\n \n64bit\n\n\nwget https://bootstrap.pypa.io/get-pip.py\nsudo -H python get-pip.py\nsudo -H pip uninstall mkdocs\nsudo -H pip install mkdocs\n\n\n\nPaso 2\n\n\nEjecutar en el terminal\n\n\nmkdocs new [dir-name] - Create a new project.\nmkdocs serve - Start the live-reloading docs server.\nmkdocs build - Build the documentation site.\nmkdocs help - Print this help message.\n\n\n\nCaptura de pantalla", 
+            "title": "Instalar Mkdocs"
+        }, 
+        {
+            "location": "/readme/#instalar-mkdocs", 
+            "text": "Para instalar mkDocs necesitamos tener instalado  pythton  =2.7\npip", 
+            "title": "Instalar mkDocs"
+        }, 
+        {
+            "location": "/readme/#paso-1", 
+            "text": "Instalaci\u00f3n funcional en  Ubuntu 15.10   64bit  wget https://bootstrap.pypa.io/get-pip.py\nsudo -H python get-pip.py\nsudo -H pip uninstall mkdocs\nsudo -H pip install mkdocs", 
+            "title": "Paso 1"
+        }, 
+        {
+            "location": "/readme/#paso-2", 
+            "text": "Ejecutar en el terminal  mkdocs new [dir-name] - Create a new project.\nmkdocs serve - Start the live-reloading docs server.\nmkdocs build - Build the documentation site.\nmkdocs help - Print this help message.", 
+            "title": "Paso 2"
+        }, 
+        {
+            "location": "/readme/#captura-de-pantalla", 
+            "text": "", 
+            "title": "Captura de pantalla"
+        }, 
+        {
+            "location": "/", 
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nInstalar mkDocs\n\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    #\u00a0The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Indice"
+        }, 
+        {
+            "location": "/#welcome-to-mkdocs", 
+            "text": "For full documentation visit  mkdocs.org .", 
+            "title": "Welcome to MkDocs"
+        }, 
+        {
+            "location": "/#instalar-mkdocs", 
+            "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.", 
+            "title": "Instalar mkDocs"
+        }, 
+        {
+            "location": "/#commands", 
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
+            "title": "Commands"
+        }, 
+        {
+            "location": "/#project-layout", 
+            "text": "mkdocs.yml    #\u00a0The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Project layout"
+        }, 
+        {
+            "location": "/esika/", 
+            "text": "Documentaci\u00f3n Esika\n\n\nDesarrollo Esika, Tecnologias\n\n\nWordpress 4.2.2\nmysql 5.6.28\n\n\n\nPlugins\n\n\nPlugins desarrollados en path: \napp/wp-content/plugins\n\n\nAltime-Sitemap-XML\n\n\ncreaci\u00f3n del archivo /sitemap.xml, util para la indexaci\u00f3n de todas las paginas existentes del sitio web.\n\n\nrevisar en \nEsikaLatam", 
+            "title": "Esika"
+        }, 
+        {
+            "location": "/esika/#documentacion-esika", 
+            "text": "Desarrollo Esika, Tecnologias  Wordpress 4.2.2\nmysql 5.6.28", 
+            "title": "Documentaci\u00f3n Esika"
+        }, 
+        {
+            "location": "/esika/#plugins", 
+            "text": "Plugins desarrollados en path:  app/wp-content/plugins", 
+            "title": "Plugins"
+        }, 
+        {
+            "location": "/esika/#altime-sitemap-xml", 
+            "text": "creaci\u00f3n del archivo /sitemap.xml, util para la indexaci\u00f3n de todas las paginas existentes del sitio web.  revisar en  EsikaLatam", 
+            "title": "Altime-Sitemap-XML"
+        }
+    ]
+}
