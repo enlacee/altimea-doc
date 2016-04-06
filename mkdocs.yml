@@ -1,0 +1,6 @@
+site_name: Altimea Docs
+theme: readthedocs
+pages:
+- Instalar Mkdocs: readme.md
+- Indice: index.md
+- Esika: esika.md
