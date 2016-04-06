@@ -16,10 +16,12 @@ Instalación funcional en *Ubuntu 15.10* `64bit`
 
 ## Paso 2
 
-mkdocs new [dir-name] - Create a new project.
-mkdocs serve - Start the live-reloading docs server.
-mkdocs build - Build the documentation site.
-mkdocs help - Print this help message.
+Ejecutar en el terminal
+
+	mkdocs new [dir-name] - Create a new project.
+	mkdocs serve - Start the live-reloading docs server.
+	mkdocs build - Build the documentation site.
+	mkdocs help - Print this help message.
 
 ## Captura de pantalla
 
