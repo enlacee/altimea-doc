@@ -1,4 +1,4 @@
-site_name: Altimea Docs
+site_name: Wiki Docs
 theme: readthedocs
 pages:
 - Instalar Mkdocs: readme.md
